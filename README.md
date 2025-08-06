@@ -7,7 +7,7 @@ A beautifully designed, vintage-themed digital photo journal application that al
 * **Webcam Capture:** Easily take photos directly from your browser.
 * **Date & Time Stamping:** Each entry is automatically marked with the capture date and time.
 * **Personalized Notes:** Add descriptive notes to your photos to capture your thoughts and memories.
-* **Vintage Aesthetic:** Enjoy a unique visual experience with a vintage paper background, sepia-toned photos, and classic typography for journal entries.
+* **Vintage Aesthetic:** Enjoy a unique visual experience with a vintage paper background and classic typography for journal entries.
 * **Edit Entries:** Modify the notes of existing journal entries.
 * **Delete Entries:** Remove unwanted entries from your journal.
 * **Clear All:** Option to clear all saved journal entries.
