@@ -16,7 +16,7 @@ A beautifully designed, vintage-themed digital photo journal application that al
 ## 🚀 Live Demo
 
 You can access the live version of the PIXELOG app here:
-[Click Here!!](https://pixelogapp-git-main-akshayanagiris-projects.vercel.app/)
+[Click Here!!](https://pixelogapp.vercel.app/)
 
 ## 💻 Technologies Used
 
