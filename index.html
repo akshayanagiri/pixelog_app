@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PIXELOG</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <h1>PIXELOG</h1>
+    <h3  id = "caption">a digital journal where memories are captured and organized..</h3>
+
+    <div class="controls-section">
+      <button id="clearAllBtn" class="clear-btn">Clear All Entries</button>
+    </div>
+
+    <div class="camera-section">
+      <video id="video" autoplay></video>
+      <div class="input-group">
+        <input type="date" id="dateInput">
+        <input type="text" id="noteInput" placeholder="Write your note for today...">
+      </div>
+      <button id="captureBtn">Capture & Save</button>
+    </div>
+
+    <h2 style="color:bisque">Your Memories...</h2>
+    <div id="journalGallery"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
