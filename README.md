@@ -28,7 +28,7 @@ You can access the live version of the PIXELOG app here:
 
 Here are some glimpses of the PIXELOG app in action:
 
-
+(images/pixelog1.png)
 
 
 ## ⚙️ How to Run Locally
